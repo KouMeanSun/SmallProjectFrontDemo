@@ -1,0 +1,10 @@
+<!--pages/main/main.wxml-->
+<text>{{msg}}</text>
+<button bindtap = "clickMe">区域信息列表</button>
+
+
+
+
+
+
+
